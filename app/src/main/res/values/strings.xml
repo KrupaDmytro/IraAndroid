@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestShop</string>
+    <string name="item">ItemString</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="button_details">Account</string>
+    <string name="button_buy">Home</string>
+    <string name="button_web">Shop</string>
+    <string name="moreinfoheader">FOTO</string>
+    <string name="moreinfo">
+        A lot of info</string>
+</resources>
